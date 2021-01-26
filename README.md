@@ -40,3 +40,10 @@ mini_sparkify_event_data.zip : This is the zipped file of data which contains 12
     !unzip ./UdacityCapstoneSparkChurn/mini_sparkify_event_data.zip
 
 3. post that you can follow all the code in spakify.inpunb to load, process and generate predictions
+
+### Blog
+
+below is the link to blog on medium where you can find more details and explanation on project
+
+ <https://rajeevfromkrec.medium.com/stop-revenue-leakage-by-using-power-of-big-data-machine-learning-41cc8fec0df8>
+
